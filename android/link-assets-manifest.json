@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Moul-Regular.ttf",
+      "sha1": "8b67cacccef02d8834e27d3108fdec738736ec5f"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Bold.ttf",
+      "sha1": "581675fd5d3734c5ee1506359190ce467c477e18"
+    }
+  ]
+}
